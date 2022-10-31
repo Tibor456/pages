@@ -1,0 +1,16 @@
+.secondrow  {
+    text-decoration: underline ;
+    color:purple;
+}
+.nad {
+    color:green;
+}
+img {
+    float:left
+}
+p {
+    margin:0;
+    padding:0;
+    float:left;
+    margin-left:10px;
+}
